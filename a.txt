@@ -1,3 +1,4 @@
 Primeiro texto
 Atualização de texto
 Testando push
+Testando stash
